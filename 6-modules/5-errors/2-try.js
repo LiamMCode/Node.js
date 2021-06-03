@@ -8,7 +8,8 @@ files.forEach(file => {
     const filePath = path.resolve(process.env.HOME, file);
     const data = fs.readFileSync(filePath);
     console.log('File data is', data);
-  } catch (err) {
+  } 
+  catch (err) {
     console.log('File not found');
   }
 });
