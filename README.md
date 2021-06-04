@@ -4,3 +4,4 @@
 - express - `https://app.pluralsight.com/interactive-courses/detail/541621a6-41b4-4b05-943a-337a1d90fbb5`
     - `npm install --save express`
     - `npm install --save ejs`
+- using modules and npm - `https://app.pluralsight.com/interactive-courses/detail/920e0d3b-64a9-49ab-92d5-83ddf1efaa1a`
